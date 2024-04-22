@@ -30,15 +30,15 @@ Run the script using Python:
 
 The script will fetch the world population data, append it to the specified Google Sheets document along with a timestamp, and handle any errors gracefully with retry logic.
 
-###Logging
+### Logging
 
 The script logs errors and informational messages to a file named error.log in the script's directory. Check this log file for troubleshooting and monitoring purposes.
 
-###Note
+### Note
 
 - Ensure the Google Sheets document is shared with the email address associated with the credentials JSON file.
 - Adjust the retry attempts and delay as needed for your use case.
 
-####License
+#### License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
