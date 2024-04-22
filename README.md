@@ -21,7 +21,7 @@ Before running the script, make sure you have the following:
 
 - GOOGLE_SHEETS_CREDS_FILE: Path to the Google Sheets credentials JSON file.
 - SPREADSHEET_NAME: Name of the Google Sheets document.
-- API_ENDPOINT: URL of the API endpoint to fetch world population data (RapidAPI: [https://get-population.p.rapidapi.com/population]).
+- API_ENDPOINT: URL of the API endpoint to fetch world population data (RapidAPI: [https://docs.rapidapi.com/]).
 - RAPIDAPI_KEY: Your RapidAPI key for accessing the world population API.
 
 ### Usage
